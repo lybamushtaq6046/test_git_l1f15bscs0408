@@ -1,2 +1,3 @@
 "name: Lyba Mushtaq"
-"name: Lyba Mushtaq"
+email: lyba_mushtaq@ucp.edu.pk
+Faculty of information technology
